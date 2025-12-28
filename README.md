@@ -1,1 +1,1 @@
-# dotfileconfigstow
+# dotfiles
